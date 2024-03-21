@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+
+	<title> Testes de Várias TAGS </title>
+	</head>
+
+	<body>
+	<p align="right"> Parágrafo alinhada à direita.</p>
+	<p align="left">Parágrafo alinhado à esquerda.</p>
+	<p align="center">Parágrafo centralizado. </p>
+	<p align="justify"> Este é o quarto parágrafo. Experimente colocar mais conteúdo.... </p>
+	<p>Este é o quinto parágrafo.</p>
+	</body>
+</html>
+
