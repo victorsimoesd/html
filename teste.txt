@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+		<head>
+			<meta charset="utf-8">
+			<title> Título da Página</title>
+			<link rel="shortcut icon" type="image/x-icon" href="insta.png"> 
+		</head>
+		<body>
+				<hr>
+				<hr>
+
+				<h1>Texto de tamanho H1 </h1>
+				<h2>Texto de tamanho H1 </h2>
+				<h3>Texto de tamanho H1 </h3>
+				<h4>Texto de tamanho H1 </h4>
+				<h5>Texto de tamanho H1 </h5>
+				<h6>Texto de tamanho H1 </h6>
+
+				<p>Texto em parágrafo </p>
+				<p><u>Texto em parágrafo </u> </p>
+
+				Texto normal <br>
+				Texto normal 
+				<hr>
+				<hr>
+				Texto normal
+				Texto normal
+
+			</body>
+		</html>
+
+
